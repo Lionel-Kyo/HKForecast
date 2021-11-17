@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_LocalWeatherForecast">
+
+    <fragment
+        android:id="@+id/nav_LocalWeatherForecast"
+        android:name="com.example.hkforecast.LocalWeatherForecast"
+        android:label="@string/menu_LocalWeatherForecast"
+        tools:layout="@layout/fragment_local_weather_forecast" />
+
+    <fragment
+        android:id="@+id/nav_nineDayWeatherForecast"
+        android:name="com.example.hkforecast.nineDayWeatherForecast"
+        android:label="@string/menu_nineDayWeatherForecast"
+        tools:layout="@layout/fragment_nine_day_weather_forecast" />
+
+</navigation>

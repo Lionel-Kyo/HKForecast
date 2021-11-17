@@ -1,0 +1,38 @@
+<resources>
+    <string name="language">en</string>
+    <string name="app_name">HK Forecast</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_LocalWeatherForecast">Local Weather Forecast</string>
+    <string name="menu_nineDayWeatherForecast">9-day Weather Forecast</string>
+    <string name="menu_CurrentWeatherReport">Current Weather Report</string>
+    <string name="menu_WeatherWarningSummary">Weather Warning Summary</string>
+    <string name="menu_WeatherWarningInformation">Weather Warning Information</string>
+    <string name="menu_SpecialWeatherTips">Special Weather Tips</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">Loading</string>
+    <string name="failed_to_load">Failed to Load</string>
+
+    <!--Local Weather Forecast-->
+    <string name="generalSituation">General Situation</string>
+    <string name="tcInfo">Tropical Cyclone Information</string>
+    <string name="fireDangerWarning">Fire Danger Warning Message</string>
+    <string name="forecastPeriod">Forecast Period</string>
+    <string name="forecastDesc">Forecast Description</string>
+    <string name="outlook">Outlook</string>
+    <string name="updateTime">Update Time</string>
+
+    <!--9-day Weather Forecast-->
+    <string name="forecastWeather"> Forecast Weather</string>
+    <string name="forecastMaxtemp">Forecast Maximum Temperature</string>
+    <string name="forecastMintemp">Forecast Minimum Temperature</string>
+    <string name="forecastMaxrh">Forecast Maximum Relative Humidity</string>
+    <string name="forecastMinrh">Forecast Minimum Relative Humidity</string>
+    <string name="forecastWind">Forecast Wind</string>
+</resources>

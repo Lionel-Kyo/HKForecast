@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language">tc</string>
+    <string name="app_name">香港天氣預報</string>
+    <string name="action_settings">設定</string>
+    <string name="menu_LocalWeatherForecast">本港地區天氣預報</string>
+    <string name="menu_nineDayWeatherForecast">九天天氣預報</string>
+    <string name="menu_CurrentWeatherReport">本港地區天氣報告</string>
+    <string name="menu_WeatherWarningSummary">天氣警告一覽</string>
+    <string name="menu_WeatherWarningInformation">詳細天氣警告資訊</string>
+    <string name="menu_SpecialWeatherTips">" 特別天氣提示"</string>
+    <string name="hello_blank_fragment">空白</string>
+    <string name="loading">讀取中</string>
+    <string name="failed_to_load">讀取失敗</string>
+    <string name="generalSituation">概況</string>
+    <string name="tcInfo">熱帶氣旋資訊</string>
+    <string name="fireDangerWarning">火災危險警告信息</string>
+    <string name="forecastPeriod">預測時段</string>
+    <string name="outlook">展望</string>
+    <string name="updateTime">更新時間</string>
+    <string name="forecastWeather">預測天氣</string>
+    <string name="forecastMaxtemp">預測最高溫度</string>
+    <string name="forecastMintemp">預測最低溫度</string>
+    <string name="forecastMaxrh">預測最高相對濕度</string>
+    <string name="forecastMinrh">預測最低相對濕度</string>
+    <string name="forecastWind">預測風向風速</string>
+    <string name="forecastDesc">預測內容</string>
+</resources>
